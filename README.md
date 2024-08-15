@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kethan-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kethan Kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kethan_.02?igsh=dmpua2dnajY4b3U1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kethankumar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/kethankumar136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kethankumar136" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/KETHAN_136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KethanKumar13" height="30" width="40" /></a>
+</p>
 </p>
 
 
