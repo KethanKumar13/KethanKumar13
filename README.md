@@ -87,12 +87,9 @@ I'm a passionate developer from **India 🇮🇳** with a deep interest in **Art
 
 <div align="center">
 
-<a href="https://github.com/KethanKumar13">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KethanKumar13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/KethanKumar13">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KethanKumar13&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KethanKumar13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)](https://github.com/KethanKumar13)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KethanKumar13&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8)](https://github.com/KethanKumar13)
 
 </div>
 
