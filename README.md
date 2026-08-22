@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;ASP.NET+Core+Developer+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Technologies+%F0%9F%93%9A"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;ASP.NET+Core+Developer+%E2%9A%99%EF%B8%8F;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Technologies+%F0%9F%93%9A"/>
   </a>
 </p>
 
