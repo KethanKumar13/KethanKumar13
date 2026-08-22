@@ -183,22 +183,6 @@ I'm a **Software Engineer** passionate about building scalable web applications,
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px"/>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     📜 CERTIFICATIONS
-═══════════════════════════════════════════════════════════════ -->
-
-## 📜 Certifications
-
-<div align="center">
-
-![Azure AI-900](https://img.shields.io/badge/-Microsoft%20Azure%20AI%20Fundamentals%20\(AI--900\)-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![ML Python](https://img.shields.io/badge/-Machine%20Learning%20with%20Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![AI Masterclass](https://img.shields.io/badge/-AI%20Masterclass-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px"/>
-
-<!-- ═══════════════════════════════════════════════════════════════
      🌐 CONNECT
 ═══════════════════════════════════════════════════════════════ -->
 
